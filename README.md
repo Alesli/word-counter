@@ -29,3 +29,8 @@ For letter I -> `FILE_I.txt` content:
 
 For letter C - > `FILE_C.txt` content:
 `Content 7`
+---
+6. Write tests that show the code is working as intended.
+
+   `mvn clean test`
+   `mvn jacoco:report`
